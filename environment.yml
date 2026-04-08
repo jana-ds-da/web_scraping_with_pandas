@@ -1,0 +1,8 @@
+name: web_scraping_with_pandas_env
+
+channels: 
+defaults
+
+dependencies:
+python=3.9
+pandas
